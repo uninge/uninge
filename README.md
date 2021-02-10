@@ -1,14 +1,14 @@
-# ✨半壁翻云刃，满江酩酊红。千古光阴一霎时，且醉浪涛中。✨
+## ✨半壁翻云刃，满江酩酊红。千古光阴一霎时，且醉浪涛中。✨
 
 <p align="center">
 	<a href="https://github.com/uninge">
-		<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=uninge" alt="stats">
+		<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=uninge" alt="stats">
 	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/uninge">
-		<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uninge&layout=compact" alt="languages">
+		<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uninge&layout=compact" alt="languages">
 	</a>
 </p>
 
