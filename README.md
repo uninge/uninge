@@ -2,13 +2,13 @@
 
 <p align="center">
 	<a href="https://github.com/uninge">
-		<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=uninge&theme=radical" alt="stats">
+		<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=uninge" alt="stats">
 	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/uninge">
-		<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uninge&layout=compact&theme=radical" alt="languages">
+		<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uninge&layout=compact" alt="languages">
 	</a>
 </p>
 
