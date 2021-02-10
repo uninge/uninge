@@ -2,8 +2,8 @@
 
 <p align="center">
 	<a href="https://github.com/uninge">
-		<img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=uninge&theme=radical" alt="stats">
-		<img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uninge&layout=compact&theme=radical" alt="languages">
+		<img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=uninge&theme=radical" alt="stats">
+		<img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uninge&layout=compact&theme=radical" alt="languages">
 	</a>
 </p>
 
